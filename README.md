@@ -1,10 +1,10 @@
 # UI Automation Test (Section 3)
 
-This repo is for online shopping automation test
+This repo is for an online shopping automation test
 
 ## Overview
 
-saucedemo is a project for UI testing of web  online shopping using Playwright. This guide will help you set up Playwright, configure it, and run your tests effectively.
+SaucedemoAutomationTest is a project for UI testing of web online shopping using Playwright. This guide will help you set up Playwright, configure it, and run your tests effectively.
 
 ## Prerequisites
 
